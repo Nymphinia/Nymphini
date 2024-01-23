@@ -26,9 +26,9 @@ client.on('ready', async () => {
     .setApplicationId('1142516638852321280')
     .setType('STREAMING')
     .setURL('https://twitch.tv/developer') //Must be a youtube video link 
-    .setState('☆₊˚⋆𝓣𝓱𝓮 𝓞𝓻𝓲𝓰𝓲𝓷𝓪𝓵 𝓢𝓲𝓷₊˚⋆')
+    .setState('☆₊˚⋆𝕋𝕙𝕖 𝔻𝕒𝕣𝕜 𝔼𝕝𝕗₊˚⋆')
     .setName('Nymph')
-    .setDetails(`ɓɓƎ pǝɥɔʇǝɹM ǝɥ⊥`)
+    .setDetails(`𝖇𝖚𝖇𝖇𝖑𝖊 𝖇𝖚𝖙𝖙`)
     .setStartTimestamp(Date.now())
  .setAssetsLargeImage('https://cdn.discordapp.com/attachments/1075473281022447796/1199488394741436467/IMG_9636.png?ex=65c2b99e&is=65b0449e&hm=a7c1d9f26d23a03746da4cb104b57a6e53af7fcda1a5d2a0557897a8b158cfbe&') //You can put links in tenor or discord and etc.
     .setAssetsLargeText('˚₊⊹♡₊˚꒷꒦꒷') //Text when you hover the Large image

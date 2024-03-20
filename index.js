@@ -30,9 +30,9 @@ client.on('ready', async () => {
     .setName('Nymph')
     .setDetails(`𝐶𝑎𝑝𝑡𝑖𝑣𝑡𝑖𝑛𝑔 𝑁𝑦𝑚𝑝ℎ`)
     .setStartTimestamp(Date.now())
- .setAssetsLargeImage('https://cdn.discordapp.com/attachments/1075473281022447796/1220103709258813611/IMG_0652.gif?ex=660db920&is=65fb4420&hm=4dfbddac7cfa6ae4440e0b303ec5ce4ee1191e720f6424422be1d1c35b689a19&') //You can put links in tenor or discord and etc.
+ .setAssetsLargeImage('https://cdn.discordapp.com/attachments/1075473281022447796/1220032916063518740/MagicEraser_240320_163505.png?ex=660d7732&is=65fb0232&hm=52923223210d2797b66f0e763588ca84e27378dd664b8e376d49f4d99ffe8743&') //You can put links in tenor or discord and etc.
     .setAssetsLargeText('˚₊⊹♡₊˚꒷꒦꒷') //Text when you hover the Large image
-    .setAssetsSmallImage('https://cdn.discordapp.com/attachments/1075473281022447796/1220032916063518740/MagicEraser_240320_163505.png?ex=660d7732&is=65fb0232&hm=52923223210d2797b66f0e763588ca84e27378dd664b8e376d49f4d99ffe8743&') //You can put links in tenor or discord and etc.
+    .setAssetsSmallImage('https://cdn.discordapp.com/attachments/1075473281022447796/1220103709258813611/IMG_0652.gif?ex=660db920&is=65fb4420&hm=4dfbddac7cfa6ae4440e0b303ec5ce4ee1191e720f6424422be1d1c35b689a19&') //You can put links in tenor or discord and etc.
     .setAssetsSmallText('𝑁𝑎𝑒𝑎𝑟𝑎♡') //Text when you hover the Small image
     .addButton('ೣ🌷 ໑ ִ 💗🎐','https://nymphibia.carrd.co/')
     .addButton('★☄🀄️💌','https://youtu.be/ArmDp-zijuc');

@@ -26,9 +26,9 @@ client.on('ready', async () => {
     .setApplicationId('1142516638852321280')
     .setType('STREAMING')
     .setURL('https://twitch.tv/developer') //Must be a youtube video link 
-    .setState('☆₊˚⋆𝕋𝕙𝕖 𝔻𝕒𝕣𝕜 𝔼𝕝𝕗₊˚⋆')
+    .setState('☆₊˚⋆𝐹𝑒𝑚𝑚𝑒 𝐹𝑎𝑡𝑎𝑙₊˚⋆')
     .setName('Nymph')
-    .setDetails(`𝖇𝖚𝖇𝖇𝖑𝖊 𝖇𝖚𝖙𝖙`)
+    .setDetails(`𝐶𝑎𝑝𝑡𝑖𝑣𝑡𝑖𝑛𝑔 𝑁𝑦𝑚𝑝ℎ`)
     .setStartTimestamp(Date.now())
  .setAssetsLargeImage('https://cdn.discordapp.com/attachments/1075473281022447796/1199524624170492084/IMG_9680.gif?ex=65c2db5c&is=65b0665c&hm=5ff077e153b65c3ec735de456b9fb5a6b8d09d90e03b933f894e8f64fa08669f&') //You can put links in tenor or discord and etc.
     .setAssetsLargeText('˚₊⊹♡₊˚꒷꒦꒷') //Text when you hover the Large image

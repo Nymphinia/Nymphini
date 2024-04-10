@@ -26,13 +26,13 @@ client.on('ready', async () => {
     .setApplicationId('1142516638852321280')
     .setType('STREAMING')
     .setURL('https://twitch.tv/developer') //Must be a youtube video link 
-    .setState('☆₊˚⋆𝐹𝑒𝑚𝑚𝑒 𝐹𝑎𝑡𝑎𝑙₊˚⋆')
-    .setName('Nymph')
-    .setDetails(`𝐶𝑎𝑝𝑡𝑖𝑣𝑡𝑖𝑛𝑔 𝑁𝑦𝑚𝑝ℎ`)
+    .setState('☆₊˚⋆𝐅𝐞𝐦𝐦𝐞 𝐃𝐫𝐚𝐠𝐨𝐧𝐢𝐚₊˚⋆')
+    .setName('Dragon Nymph')
+    .setDetails(`𝘋𝘳𝘢𝘨𝘰𝘯 𝘘𝘶𝘦𝘦𝘯`)
     .setStartTimestamp(Date.now())
- .setAssetsLargeImage('https://cdn.discordapp.com/attachments/1075473281022447796/1220032916063518740/MagicEraser_240320_163505.png?ex=660d7732&is=65fb0232&hm=52923223210d2797b66f0e763588ca84e27378dd664b8e376d49f4d99ffe8743&') //You can put links in tenor or discord and etc.
+ .setAssetsLargeImage('https://cdn.discordapp.com/attachments/1075473281022447796/1227578422390161478/IMG_1009.gif?ex=6628ea7f&is=6616757f&hm=873acd4f898d2e653f89e9afb61a9ef119e8d8fea787af5644c3f9447d16b7f8&') //You can put links in tenor or discord and etc.
     .setAssetsLargeText('˚₊⊹♡₊˚꒷꒦꒷') //Text when you hover the Large image
-    .setAssetsSmallImage('https://cdn.discordapp.com/attachments/1075473281022447796/1220103709258813611/IMG_0652.gif?ex=660db920&is=65fb4420&hm=4dfbddac7cfa6ae4440e0b303ec5ce4ee1191e720f6424422be1d1c35b689a19&') //You can put links in tenor or discord and etc.
+    .setAssetsSmallImage('https://cdn.discordapp.com/attachments/1075473281022447796/1227557610270756985/Untitled55_20240410115529.png?ex=6628d71d&is=6616621d&hm=566043fe3c95044ee3db4b711337cb507095f8586208ea1d7b061907728dbb6b&') //You can put links in tenor or discord and etc.
     .setAssetsSmallText('𝑁𝑎𝑒𝑎𝑟𝑎♡') //Text when you hover the Small image
     .addButton('ೣ🌷 ໑ ִ 💗🎐','https://nymphibia.carrd.co/')
     .addButton('★☄🀄️💌','https://youtu.be/ArmDp-zijuc');

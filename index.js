@@ -30,7 +30,7 @@ client.on('ready', async () => {
     .setName('Dragon Nymph')
     .setDetails(`𝘋𝘳𝘢𝘨𝘰𝘯 𝘘𝘶𝘦𝘦𝘯`)
     .setStartTimestamp(Date.now())
- .setAssetsLargeImage('https://cdn.discordapp.com/attachments/1075473281022447796/1227578422390161478/IMG_1009.gif?ex=6628ea7f&is=6616757f&hm=873acd4f898d2e653f89e9afb61a9ef119e8d8fea787af5644c3f9447d16b7f8&') //You can put links in tenor or discord and etc.
+ .setAssetsLargeImage('https://cdn.discordapp.com/attachments/1075473281022447796/1240220875652075600/IMG_1642.gif?ex=6645c532&is=664473b2&hm=e720875bcb22cde3b9c186b578af684f51fa0c7eb81ecf86e9f54271337f86f1&') //You can put links in tenor or discord and etc.
     .setAssetsLargeText('˚₊⊹♡₊˚꒷꒦꒷') //Text when you hover the Large image
     .setAssetsSmallImage('https://cdn.discordapp.com/attachments/1075473281022447796/1227557610270756985/Untitled55_20240410115529.png?ex=6628d71d&is=6616621d&hm=566043fe3c95044ee3db4b711337cb507095f8586208ea1d7b061907728dbb6b&') //You can put links in tenor or discord and etc.
     .setAssetsSmallText('𝑁𝑎𝑒𝑎𝑟𝑎♡') //Text when you hover the Small image

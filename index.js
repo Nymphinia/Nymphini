@@ -26,9 +26,9 @@ client.on('ready', async () => {
     .setApplicationId('1142516638852321280')
     .setType('STREAMING')
     .setURL('https://twitch.tv/developer') //Must be a youtube video link 
-    .setState('☆₊˚⋆𝐅𝐞𝐦𝐦𝐞 𝐃𝐫𝐚𝐠𝐨𝐧𝐢𝐚₊˚⋆')
+    .setState('☆₊˚⋆𝐋ɪʟᴰᴿᴬᴳᴼᴺ𝐁ᴀʙɪɪ ଦ🪷ଓ₊˚⋆')
     .setName('Dragon Nymph')
-    .setDetails(`𝘋𝘳𝘢𝘨𝘰𝘯 𝘘𝘶𝘦𝘦𝘯`)
+    .setDetails(`𝑙𝑖𝑔ℎ𝑡𝑛𝑖𝑛𝑔 𝑢𝑠𝑢𝑟𝑝𝑒𝑟`)
     .setStartTimestamp(Date.now())
  .setAssetsLargeImage('https://cdn.discordapp.com/attachments/1075473281022447796/1240220875652075600/IMG_1642.gif?ex=6645c532&is=664473b2&hm=e720875bcb22cde3b9c186b578af684f51fa0c7eb81ecf86e9f54271337f86f1&') //You can put links in tenor or discord and etc.
     .setAssetsLargeText('˚₊⊹♡₊˚꒷꒦꒷') //Text when you hover the Large image

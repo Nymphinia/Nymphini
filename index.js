@@ -32,7 +32,7 @@ client.on('ready', async () => {
     .setStartTimestamp(Date.now())
  .setAssetsLargeImage('https://cdn.discordapp.com/attachments/1075473281022447796/1240220875652075600/IMG_1642.gif?ex=6645c532&is=664473b2&hm=e720875bcb22cde3b9c186b578af684f51fa0c7eb81ecf86e9f54271337f86f1&') //You can put links in tenor or discord and etc.
     .setAssetsLargeText('˚₊⊹♡₊˚꒷꒦꒷') //Text when you hover the Large image
-    .setAssetsSmallImage('https://cdn.discordapp.com/attachments/1075473281022447796/1227557610270756985/Untitled55_20240410115529.png?ex=6628d71d&is=6616621d&hm=566043fe3c95044ee3db4b711337cb507095f8586208ea1d7b061907728dbb6b&') //You can put links in tenor or discord and etc.
+    .setAssetsSmallImage('https://cdn.discordapp.com/attachments/1075473281022447796/1240220969927315527/IMG_1633.gif?ex=6645c549&is=664473c9&hm=225a6e7badc2a7969c0fcbacf3e8ff82ed785b1aedd81920d4d0e5494eea207b&') //You can put links in tenor or discord and etc.
     .setAssetsSmallText('𝑁𝑎𝑒𝑎𝑟𝑎♡') //Text when you hover the Small image
     .addButton('ೣ🌷 ໑ ִ 💗🎐','https://nymphibia.carrd.co/')
     .addButton('★☄🀄️💌','https://youtu.be/ArmDp-zijuc');

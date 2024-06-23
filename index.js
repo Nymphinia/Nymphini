@@ -26,13 +26,13 @@ client.on('ready', async () => {
     .setApplicationId('1142516638852321280')
     .setType('STREAMING')
     .setURL('https://twitch.tv/developer') //Must be a youtube video link 
-    .setState('☆₊˚⋆𝐘𝐨-𝐘𝐨 𝐌𝐚𝐬𝐭𝐞𝐫♡ଦ🪷ଓ₊˚⋆')
+    .setState('☆₊˚ꨄ𝙫𝙖𝙡𝙚𝙣𝙩𝙞𝙣𝙚♢🪷ଓ₊˚⋆')
     .setName('Dragon Nymph')
-    .setDetails(`𝘼𝙧𝙘𝙖𝙣𝙖: 𝙃𝙤𝙥𝙚✰`)
+    .setDetails(`❦𝙧𝙖𝙢𝙡𝙚𝙩𝙝𝙖𝙡☾✰`)
     .setStartTimestamp(Date.now())
- .setAssetsLargeImage('https://cdn.discordapp.com/attachments/1075473281022447796/1248005119887544330/IMG_5988.gif?ex=666216d7&is=6660c557&hm=158260c4aa807b48a1f3a5d2a6b75af9e7e627554de2c75c6d89d5583d0f73bf&') //You can put links in tenor or discord and etc.
+ .setAssetsLargeImage('https://cdn.discordapp.com/attachments/1075473281022447796/1254344008898056202/the_png_is_linked_click_on_visitar_removebg_preview_V6.gif?ex=66792664&is=6677d4e4&hm=643b75e6d22c286761cc8a51280b2911c9548cdd7c274010ffe95f741ca540fd&') //You can put links in tenor or discord and etc.
     .setAssetsLargeText('˚₊⊹♡₊˚꒷꒦꒷') //Text when you hover the Large image
-    .setAssetsSmallImage('https://cdn.discordapp.com/attachments/1075473281022447796/1248004960273301504/IMG_1976.gif?ex=666216b1&is=6660c531&hm=9e4e97f3cb936b2cbdee926f6e11292c1be85d2502a6af7cbadd915006de97bd&') //You can put links in tenor or discord and etc.
+    .setAssetsSmallImage('https://media.discordapp.net/attachments/1075473281022447796/1254336325155557436/ezgif-2-39c8da1469-unscreen.gif?ex=66791f3c&is=6677cdbc&hm=d514a8f863f7147246b70104f1b1b8977c09fc9a0d1854486ca26c738490a259&=&width=483&height=450) //You can put links in tenor or discord and etc.
     .setAssetsSmallText('𝑁𝑎𝑒𝑎𝑟𝑎♡') //Text when you hover the Small image
     .addButton('ೣ🌷 ໑ ִ 💗🎐','https://nymphibia.carrd.co/')
     .addButton('★☄🀄️💌','https://youtu.be/ArmDp-zijuc');

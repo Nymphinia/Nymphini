@@ -30,9 +30,9 @@ client.on('ready', async () => {
     .setName('Dragon Nymph')
     .setDetails(`❦𝙧𝙖𝙢𝙡𝙚𝙩𝙝𝙖𝙡☾✰`)
     .setStartTimestamp(Date.now())
- .setAssetsLargeImage('https://cdn.discordapp.com/attachments/1075473281022447796/1254553173465632868/ezgif-2-68a6dc7b1e.gif?ex=6679e931&is=667897b1&hm=6aad424c102ef020e013f0f05f629bd0c2b0643de00fcee5e586f3857679431a&') //You can put links in tenor or discord and etc.
+ .setAssetsLargeImage('https://cdn.discordapp.com/attachments/1075473281022447796/1254553173465632868/ezgif-2-68a6dc7b1e.gif?ex=668080b1&is=667f2f31&hm=bbc1f0708475cb4795fafb8123d66fe20c770e8942d8a0bd6034c368dfeb39f2&') //You can put links in tenor or discord and etc.
     .setAssetsLargeText('˚₊⊹♡₊˚꒷꒦꒷') //Text when you hover the Large image
-    .setAssetsSmallImage('https://cdn.discordapp.com/attachments/1075473281022447796/1254336325155557436/ezgif-2-39c8da1469-unscreen.gif?ex=66791f3c&is=6677cdbc&hm=d514a8f863f7147246b70104f1b1b8977c09fc9a0d1854486ca26c738490a259&') //You can put links in tenor or discord and etc.
+    .setAssetsSmallImage('https://cdn.discordapp.com/attachments/1075473281022447796/1254336325155557436/ezgif-2-39c8da1469-unscreen.gif?ex=66805f7c&is=667f0dfc&hm=afdf2d2ad897d057179b60b15473bfe661fe6856a362b89c565b325bd8070521&') //You can put links in tenor or discord and etc.
     .setAssetsSmallText('𝑁𝑎𝑒𝑎𝑟𝑎♡') //Text when you hover the Small image
     .addButton('ೣ🌷 ໑ ִ 💗🎐','https://nymphibia.carrd.co/')
     .addButton('★☄🀄️💌','https://youtu.be/ArmDp-zijuc');

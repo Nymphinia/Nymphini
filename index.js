@@ -26,9 +26,9 @@ client.on('ready', async () => {
     .setApplicationId('1142516638852321280')
     .setType('STREAMING')
     .setURL('https://twitch.tv/developer') //Must be a youtube video link 
-    .setState('☆₊˚ꨄ𝙫𝙖𝙡𝙚𝙣𝙩𝙞𝙣𝙚♢🪷ଓ₊˚⋆')
+    .setState('☆₊˚ꨄBelobog♢🪷ଓ₊˚⋆')
     .setName('Dragon Nymph')
-    .setDetails(`❦𝙧𝙖𝙢𝙡𝙚𝙩𝙝𝙖𝙡☾✰`)
+    .setDetails(`❦Koleda☾✰`)
     .setStartTimestamp(Date.now())
  .setAssetsLargeImage('https://cdn.discordapp.com/attachments/1075473281022447796/1254553173465632868/ezgif-2-68a6dc7b1e.gif?ex=668080b1&is=667f2f31&hm=bbc1f0708475cb4795fafb8123d66fe20c770e8942d8a0bd6034c368dfeb39f2&') //You can put links in tenor or discord and etc.
     .setAssetsLargeText('˚₊⊹♡₊˚꒷꒦꒷') //Text when you hover the Large image
